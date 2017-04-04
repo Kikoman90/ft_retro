@@ -4,6 +4,7 @@ The project focused on working with abstract classes, inheritance, and other not
 
 ## preview
 
+WORKING ON A PREVIEW
 <div width="100%" align="center">
   <img width="65%" src="https://media.giphy.com/media/xUPGcqZngoQVf7p4J2/giphy.gif"/>
 </div>
