@@ -9,7 +9,7 @@ src="https://github.com/Kikoman90/ft_retro/blob/master/resources/ft_retro_3.gif"
 <br />
 <br />
 <img align="center"
-src="https://github.com/Kikoman90/ft_retro/blob/master/resources/ft_retro_4.gif" width="100%" height="544px" />
+src="https://github.com/Kikoman90/ft_retro/blob/master/resources/ft_retro_1.gif" width="100%" height="544px" />
  
 ## How to play
 
