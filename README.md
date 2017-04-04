@@ -4,6 +4,7 @@ The project focused on working with abstract classes, inheritance, and other not
 
 ## preview
 
+![](https://github.com/Kikoman90/ft_retro/blob/master/resources/ft_retro_1.gif)
 <img align="center"
 src="https://raw.githubusercontent.com/Kikoman90/ft_retro/blob/master/resources/ft_retro_1.gif?raw=true" width="100%" height="544px" />
  
