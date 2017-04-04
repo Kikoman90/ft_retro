@@ -5,7 +5,7 @@ The project focused on working with abstract classes, inheritance, and other not
 ## preview
 
 <img align="center"
-src="https://raw.github.com/Kikoman90/ft_retro/tree/master/resources/ft_retro_1.gif?" width="100%" height="544px" />
+src="https://raw.github.com/Kikoman90/ft_retro/resources/ft_retro_1.gif" width="100%" height="544px" />
 
 ## How to play
 
