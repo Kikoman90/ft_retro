@@ -5,7 +5,7 @@ The project focused on working with abstract classes, inheritance, and other not
 ## preview
 
 <div width="100%" align="center">
-  <img width="65%" src="https://media.giphy.com/media/3o7bub681GY8MdUE9y/giphy.gif"/>
+  <img width="90%" src="https://media.giphy.com/media/3o7bub681GY8MdUE9y/giphy.gif"/>
 </div>
 
 ## How to play
