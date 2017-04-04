@@ -4,9 +4,7 @@ The project focused on working with abstract classes, inheritance, and other not
 
 ## preview
 
-<div width="100%" align="center">
-  <img width="90%" src="https://media.giphy.com/media/3o7bub681GY8MdUE9y/giphy.gif"/>
-</div>
+<img align="center" src="https://raw.githubusercontent.com/Kikoman90/ft_retro/master/resources/ft_retro_1.gif?raw=true" width="100%" height="544px" />
 
 ## How to play
 
